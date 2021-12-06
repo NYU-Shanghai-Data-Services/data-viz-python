@@ -7,6 +7,9 @@ Here is a [preview](https://share.streamlit.io/pamela-pan/olympics-125/main/app.
 
 ![image](https://user-images.githubusercontent.com/93502896/144559524-7f9c5f97-4303-4687-b9b1-3ae21fcaf2d3.png)
 
+### Dataset
+125 Years of Summer Olympics (Source: [Kaggle](https://www.kaggle.com/ramontanoeiro/summer-olympic-medals-1986-2020))
+
 ### How to clone this repository & run the app
 Please find detailed instructions in the slides.
 
