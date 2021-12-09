@@ -11,7 +11,7 @@ Here is a [preview](https://share.streamlit.io/pamela-pan/olympics-125/main/app.
 125 Years of Summer Olympics (Source: [Kaggle](https://www.kaggle.com/ramontanoeiro/summer-olympic-medals-1986-2020))
 
 ### How to clone this repository & run the app
-Please find detailed instructions in the slides.
+Please find detailed instructions in the slides [(download)](https://github.com/NYU-Shanghai-Data-Services/data-viz-python/blob/main/Data%20Dashboarding%20with%20Plotly%20for%20Python.pptx)
 
 ### About Plotly for Python
 [Plotly](https://plotly.com/graphing-libraries/) is a graphing library that binds to many languages, including Python.
